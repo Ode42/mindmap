@@ -17,3 +17,10 @@
     align-items: center;
     background: lime;
 }
+
+.diagram-component {
+    width: 400px;
+    height: 400px;
+    border: solid 1px black;
+    background-color: white;
+  }
