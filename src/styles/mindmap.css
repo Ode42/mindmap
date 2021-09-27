@@ -1,0 +1,19 @@
+.mindmap {
+    display: flex;
+    flex-flow: column wrap;
+    width: 95%;
+    height: 100vh;
+    justify-content: space-between;
+    align-items: center;
+    background: salmon;
+}
+
+
+.mindmap div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    background: lime;
+}
